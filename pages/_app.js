@@ -1,6 +1,7 @@
 import { calibre, jetbrains_mono } from "public/fonts";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import Meta from "@/components/Meta/Meta";
+import ParticleBackground from "@/components/ParticleBackground/ParticleBackground";
 import "../styles/globals.scss";
 import { GTAG } from "constants";
 
@@ -8,6 +9,7 @@ const App = ({ Component, pageProps }) => {
   return (
     <>
       <Meta />
+      <ParticleBackground />
       <div
         className={`${calibre.variable} font-sans ${jetbrains_mono.variable} font-mono`}
       >
