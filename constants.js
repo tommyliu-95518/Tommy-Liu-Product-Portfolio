@@ -126,14 +126,14 @@ export const PROJECTS = [
     url: "https://play.google.com/store/apps/details?id=com.app.gvine",
     tech: ["typescript", "react", "react-query"],
   },
-  {
-    name: "React Native Directory",
-    imageKey: "react-native-directory",
-    description: "Search & filter React Native libraries via Raycast ⌨️",
-    gradient: ["#000000", "#1A1A1A"], // pure black to dark gray
-    url: "https://www.raycast.com/shubh_porwal/react-native-directory",
-    tech: ["typescript", "react", "expo", "raycast"],
-  },
+  // {
+  //   name: "React Native Directory",
+  //   imageKey: "react-native-directory",
+  //   description: "Search & filter React Native libraries via Raycast ⌨️",
+  //   gradient: ["#000000", "#1A1A1A"], // pure black to dark gray
+  //   url: "https://www.raycast.com/shubh_porwal/react-native-directory",
+  //   tech: ["typescript", "react", "expo", "raycast"],
+  // },
   {
     name: "Buywow",
     imageKey: "buywow",
