@@ -12,13 +12,14 @@ const SoundBar = () => {
   };
 
   return (
-    <div
-      className={cn(
-        "soundBars link top-1 right-14 flex items-center justify-center",
-        isPlaying && "play",
-      )}
-      onClick={togglePlayPause}
-    >
+    // <div
+    //   className={cn(
+    //     "soundBars link top-1 right-14 flex items-center justify-center",
+    //     isPlaying && "play",
+    //   )}
+    //   onClick={togglePlayPause}
+    // >
+    <div>
       <span />
       <span />
       <span />
