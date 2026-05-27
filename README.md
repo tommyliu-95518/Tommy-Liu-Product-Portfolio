@@ -1,16 +1,15 @@
 # devfolio
 
-<a href="https://shubhporwal.me">
+<a href="https://tommy-liu-product-portfolio.vercel.app">
   <img alt="devfolio" src="./public/preview.png" />
 </a>
 
-[![version](https://img.shields.io/badge/version-1.0.0-black)](https://github.com/shubh73/devfolio)
-[![license](https://img.shields.io/github/license/shubh73/devfolio?color=black)](https://github.com/shubh73/devfolio/blob/main/LICENSE.md)
-[![If Useful](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=black)](https://github.com/shubh73/devfolio)
+[![version](https://img.shields.io/badge/version-1.0.0-black)](https://github.com/tommyliu-95518/Tommy-Liu-Product-Portfolio)
+
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
 
-### ✨ [Live Demo](http://www.shubhporwal.me/)
+### ✨ [Live Demo](https://tommy-liu-product-portfolio.vercel.app)
 
 ## Getting Started
 

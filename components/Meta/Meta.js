@@ -62,9 +62,9 @@ const Meta = () => (
           url: METADATA.siteUrl,
           jobTitle: "Product Engineer",
           sameAs: [
-            "https://github.com/shubh73",
-            "https://x.com/shubhporwal24",
-            "https://www.linkedin.com/in/shubhporwal/",
+            "https://github.com/tommyliu-95518",
+            // "https://x.com/tommyliu24",
+            // "https://www.linkedin.com/in/tommyliu/",
           ],
         }),
       }}

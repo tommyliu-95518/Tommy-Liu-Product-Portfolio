@@ -1,12 +1,12 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Tommy Liu",
+  title: "Portfolio | Tommy Liu",
   description:
-    "Shubh Porwal is a passionate Product Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubhporwal24",
+    "Tommy Liu is a passionate Product Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+  siteUrl: "https://www.tommyliu.me/",
+  twitterHandle: "@tommyliu24",
   keywords: [
-    "Shubh Porwal",
+    "Tommy Liu",
     "Product Engineer",
     "Frontend Engineer",
     "React Native Engineer",
@@ -53,24 +53,24 @@ export const TYPED_STRINGS = [
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto:shubhporwal73@gmail.com",
+    url: "mailto:tommy.liu95518@outlook.com",
   },
-  {
-    name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
-  },
+  // {
+  //   name: "linkedin",
+  //   url: "https://www.linkedin.com/in/tommyliu/",
+  // },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "https://github.com/tommyliu-95518",
   },
-  {
-    name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
-  },
-  {
-    name: "twitter",
-    url: "https://x.com/shubhporwal24",
-  },
+  // {
+  //   name: "instagram",
+  //   url: "https://www.instagram.com/tommyliu95518/",
+  // },
+  // {
+  //   name: "twitter",
+  //   url: "https://x.com/shubhporwal24",
+  // },
 ];
 
 export const SKILLS = {
